@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(lightblue 40%, rgb(151, 218, 151) 50%);
+    text-align: center;
+}
+#logout{
+    margin-left: 500px;
+}
+#text_input{
+    margin-top: 700px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(28, 59, 28);
+}
